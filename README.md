@@ -2,6 +2,10 @@
 
 This Repository is a preparation guide for beginners who want to learn Linux Basics. This guide will help you to understand the basic concepts of Linux and how to use Linux commands. I will Update this guide as I learn new things. This Repository is a part of my learning process. You can find all the **Resources, Documentation, and Links** I used to learn Linux in this Repository.
 
+<p align="center">
+    <img src="https://github.com/mathesh-me/linux-basics-guide/assets/144098846/8b4f0661-944b-4498-bfe9-3eeec1d6f8c7" alt="linux" />
+</p>
+
 ## Table of Contents
 
 | S.No | Topic |
